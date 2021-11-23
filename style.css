@@ -30,6 +30,11 @@ button:hover{
   color: maroon;
 }
 
+h2{
+  color: pink;
+  text-align: center;
+}
+
 img{
   height: 70vh;
   width: 100%;
